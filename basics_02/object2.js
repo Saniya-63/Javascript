@@ -55,6 +55,8 @@ const users = [
 // tinderUser.isLoggedin = false
 // console.log(tinderUser.hasOwnProperty('isLoggedin'));
 
+
+// destruction of object
 const course ={
     coursename :"javascript",
     price:"999",
