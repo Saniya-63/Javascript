@@ -55,3 +55,4 @@ if (loggedInFromGoogle || loggedInFromEmail) {
     console.log("User loged in");
     
 }
+
